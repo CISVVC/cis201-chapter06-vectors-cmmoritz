@@ -1,3 +1,12 @@
+/*
+Description: Program will store a day, amount, and description.
+	It will list the daily transactions and balances. It
+	will calculate balances and interest.
+File: main.cpp
+Author: Christina Moritz
+Date: 11-8-18
+*/
+
 #include<iostream>
 #include "transaction.h"
 #include "transactionlog.h"
